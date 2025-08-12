@@ -4,7 +4,6 @@ import 'package:amlak_real_estate/controller/search_filter_controller.dart';
 import 'package:amlak_real_estate/model/project_image.dart';
 import 'package:amlak_real_estate/views/search/search_filter_form.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:amlak_real_estate/common/common_status_bar.dart';
